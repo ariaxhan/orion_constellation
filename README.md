@@ -1,5 +1,3 @@
-orion_constellation
-
 This is the Graphing Cumulative Project for Codeacademy's Visualize Data with Python Skill Path. 
 
 I used matplotlib, Jupyter Notebook, and Python to create 2D and 3D plots of constellations. 
